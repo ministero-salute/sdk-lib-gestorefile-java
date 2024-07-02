@@ -1,3 +1,5 @@
+/* SPDX-License-Identifier: BSD-3-Clause */
+
 package it.mds.sdk.gestorefile;
 
 import org.junit.jupiter.api.Test;

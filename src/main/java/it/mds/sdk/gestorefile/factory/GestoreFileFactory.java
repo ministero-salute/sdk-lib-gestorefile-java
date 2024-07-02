@@ -1,3 +1,5 @@
+/* SPDX-License-Identifier: BSD-3-Clause */
+
 package it.mds.sdk.gestorefile.factory;
 
 import it.mds.sdk.gestorefile.GestoreFile;
